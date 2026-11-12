@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="TaskHandler.Data/TaskHandler.Data.csproj" />
+  <Project Path="TaskHandler.Services/TaskHandler.Services.csproj" />
+  <Project Path="TaskHandler.Tests/TaskHandler.Tests.csproj" />
   <Project Path="TaskHandler.Web/TaskHandler.Web.csproj" />
 </Solution>
